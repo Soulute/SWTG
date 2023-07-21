@@ -1,6 +1,6 @@
-#**GITHUB NOTICES**
+#**GITHUB NOTICE**
 
-1. distro.zip needs to be unpacked to function
+1. /dist/dist.zip needs to be unpacked to function
    
 2. To save on space, only example card images remain in the resources directory. To get the complete resources, go to https://www.starwarsthegathering.com/play.html
    
