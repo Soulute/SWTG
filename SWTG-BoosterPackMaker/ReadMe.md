@@ -1,7 +1,10 @@
-#GITHUB NOTICES
+#**GITHUB NOTICES**
+
 1. distro.zip needs to be unpacked to function
+   
 2. To save on space, only example card images remain in the resources directory. To get the complete resources, go to https://www.starwarsthegathering.com/play.html
-#END GITHUB NOTICE
+   
+#**END GITHUB NOTICE**
 
 
 SWTG-PackGenerator
@@ -109,8 +112,11 @@ How to upload different cards
 If you want to use a different set or to update to newer versions of the set, here's how the folders are set up:
 
 There is a folder for each of commons, uncommons, rares, mythics, tokens and lands inside the "resources" directory. Just put the cards in their respective folders.
+
 The cards have to be 375x523 pixels. 
+
 If you have a double-sided card, put the front side in the folder as normal, but put the back side (which should line up and be the same size) in the back folder. 
+
 It must have the same name as the file for the front side. The pack generator will look for any files in the back folder with the same name and if it finds one it will use that for the back, otherwise it will use the "back.png" file.
 
 
@@ -121,11 +127,14 @@ It must have the same name as the file for the front side. The pack generator wi
 Misc
 --------
 For the SWTG community, visit *
+
 https://www.reddit.com/r/swtg
 
 
 Comments or questions? Message /u/SoulofZendikar via Reddit anytime.
 
 v1 by /u/MimeJabsIntern
+
 v2 (GUI update) by /u/Superperforat0r
+
 Maintained by /u/SoulofZendikar
